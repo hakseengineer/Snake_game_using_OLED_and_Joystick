@@ -1,6 +1,9 @@
-Download and extarct attached zip file.
+Download and extarct attached zip file, you need to install certain libraries mentioned below from their github links,
 
-Connection detail:
+#include<Adafruit_GFX.h>       //  https://github.com/adafruit/Adafruit-GFX-Library
+#include<Adafruit_SSD1306.h>   //  https://github.com/adafruit/Adafruit_SSD1306
+
+Connection details:
 
 VRX_PIN  A6 // Arduino Nano A5 pin connected to VRX pin of joystick
 
