@@ -10,4 +10,4 @@ SW_PIN   12  // Arduino Nano 12 pin connected to SW pin of joystick
 
 Connect OLED display as shown in below image,
 
-(https://github.com/user-attachments/assets/d80ad002-a39f-4c3a-9dd4-fa0a89d2576c)
+![Interface Oled and Arduino](https://github.com/user-attachments/assets/9ebe1d5b-223f-431d-99d0-2d41a92a397c)
